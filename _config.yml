@@ -64,6 +64,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              5
 paginate_path:         /page-:num/
 
+# Separator
+excerpt_separator: <!--more-->
 
 # Customizaton
 # ========================================================================================
