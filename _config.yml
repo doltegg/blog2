@@ -28,7 +28,7 @@ description:           >
   **egg** is your presence on the web, featuring a blog, portfolio, and resume.
 # A shorter description for the sidebar.
 tagline:               >
-  "I am not a egg, but egg.".
+  "I am not a egg, but egg."
 #  Open `_config.yml` to edit this text.
 # A list of keywords for your blog
 keywords:              []
